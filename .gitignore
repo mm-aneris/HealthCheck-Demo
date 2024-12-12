@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/HealthChecks.UIAndApi/.vs
+/HealthChecks.UIAndApi/HealthChecks.UIAndApi/bin/Debug/net8.0
+/HealthChecks.UIAndApi/HealthChecks.UIAndApi/obj
